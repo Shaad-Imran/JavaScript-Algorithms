@@ -21,3 +21,5 @@ function fibonacci(n) {
 console.log(fibonacci(5));
 console.log(fibonacci(7));
 console.log(fibonacci(8));
+
+// Big-O = O(n) linear time complexity
