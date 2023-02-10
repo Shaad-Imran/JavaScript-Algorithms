@@ -1,4 +1,4 @@
-// Problem - Give an integer n, find the factorial of that integer
+// Problem - Given an integer n, find the factorial of that integer
 
 // recursiveFactorial(4) = 4*3*2*1 = 24
 // recursiveFactorial(5) = 5*4*3*2*1 = 120

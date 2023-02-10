@@ -1,6 +1,6 @@
 // Fibonacci sequence
 
-// problem - Give a number n, find the first n elements of the fibonacci sequence
+// problem - Given a number n, find the first n elements of the fibonacci sequence.
 
 // In mathematics, the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones.
 
